@@ -3,66 +3,11 @@
 		<head>
 			<title>Assignment Solution For Module 2</title>
 			<git remote add origin https://github.com/sajadnm/Assignment-Solution-For-Module-2.git>
-			<style>
-				*{margin:0px;}
-				h1{
-					text-align: center;
-					margin-bottom: 20px;
-					margin-top: 10px;
-				}
-				p{
-					padding: 5px;
-				}
-				.c1{
-					width: 200PX;
-					height: auto;
-					background-color: grey;
-					margin-bottom: 10px;
-					margin-left: 20PX;
-					border:black;
-					border: 3px solid black;
-					}
-				.c2{
-					width: 200PX;
-					height: auto;
-					background-color: grey;
-					margin-left: 20PX;
-					border:black;
-					border: 3px solid black;
-				}
-				.c3{
-					width: 200PX;
-					height: auto;
-					background-color: grey;
-					margin-left: 20PX;
-					border: 3px solid black;
-				
-				}
-				h2{
-					margin: 0px 0px;
-					float: right;
-					border-bottom: 2px solid black;
-					border-left: 2px solid black;
-					}
-				main{
-					column-count: 3;
-				}
-				#beef{
-					background-color: red;
-					color: white;
-					padding: 2px;
-					}
-				#Chicken{
-					background-color: pink;
-					padding: 2px;
-				}
-				#sushi{
-					background-color: lightyellow;
-					padding: 2px;
-				}
-			</style>
+			<link rel="stylesheet" href="css/style.css">
+			
 		</head>
 		<body>
+			<contianer>
 			<h1>Our Menu</h1>
 			<MAIN>
 				<div class="c1">
@@ -79,5 +24,7 @@
 					<p>lorem isum dolor amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolor magna aliqua. Ut enim ad minim venuam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea</p>
 				</div>
 				</MAIN>
+				</contianer>
 		</body>
 	</html>		
+	<!doctype html>
